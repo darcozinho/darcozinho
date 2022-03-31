@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-#### I'm a FTTH Designer working in Funchal, Portugal.
+#### I'm a FTTH Designer
+#### Funchal, Portugal.
 
 ##### BIO
 
