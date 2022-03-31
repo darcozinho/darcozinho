@@ -10,5 +10,5 @@
 - 💅 Designed: @imefar, [imefar.pt](https://www.imefar.pt)
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **design**, **branding**
-- 📫 Check my personal website [andreaguiar.net](https://www.andreaguiar.net)
+- 📫 Check my personal website [andreaguiar.net](https://andreaguiar.net/)
 - ⚡️ Fun fact: I'm a huge fan of watches
